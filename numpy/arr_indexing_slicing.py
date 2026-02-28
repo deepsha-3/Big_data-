@@ -23,4 +23,3 @@ print(f"Last column: {arr[:, -1]}")
 print(f"Elements > 50: {arr[arr > 50]}")
 
 # "array indexing and slicing using NumPy"
-# "numpy/arr_indexing_slicing.py"
