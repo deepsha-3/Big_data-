@@ -5,7 +5,7 @@ arr = np.array([[10, 20, 30, 40],
                 [50, 60, 70, 80],
                 [90, 100, 110, 120]])
 
-print("Original array:\n", arr)
+print(f"Original array:\n{arr}")
 
 # Basic indexing
 print(f"Element at [0, 0]: {arr[0, 0]}")
