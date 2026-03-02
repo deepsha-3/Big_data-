@@ -3,7 +3,7 @@ import pandas as pd
 df = pd.DataFrame({
     'Name': ['Riya', 'Diya', 'Max', 'Tina', 'Priya'],
     'Age': [25, 30, 35, 28, 32],
-    'City': ['New York', 'London', 'Paris', 'Tokyo', 'Sydney'],
+    'City': ['New York', 'London', 'Paris', 'Kathmandu', 'Sydney'],
     'Salary': [50000, 60000, 75000, 55000, 68000]
 })
 
