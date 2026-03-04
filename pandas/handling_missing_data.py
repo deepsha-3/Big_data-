@@ -3,7 +3,7 @@ import numpy as np
 
 # Create DataFrame with missing values
 df = pd.DataFrame({
-    'A': [1, 2, np.nan, 4, 5],
+    'A': [1, 2, np.nan, 4, 8],
     'B': [np.nan, 2, 3, np.nan, 5],
     'C': [1, 2, 3, 4, 5],
     'D': [np.nan, np.nan, np.nan, 4, 5]
