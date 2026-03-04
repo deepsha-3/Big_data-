@@ -3,7 +3,7 @@ import pandas as pd
 # Create sample data
 df = pd.DataFrame({
     'Department': ['HR', 'IT', 'Finance', 'IT', 'HR', 'Finance', 'IT', 'HR'],
-    'Employee': ['Alice', 'Bob', 'Charlie', 'David', 'Eve', 'Frank', 'Grace', 'Henry'],
+    'Employee': ['Deepsha', 'Karan', 'Dikshya', 'Kartik', 'Paranshu', 'Rahul', 'Pallavi', 'Sanskar'],
     'Salary': [50000, 60000, 75000, 65000, 52000, 80000, 70000, 48000],
     'Experience': [2, 5, 8, 4, 3, 10, 6, 1]
 })
